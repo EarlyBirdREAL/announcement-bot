@@ -360,4 +360,4 @@ client.on('message', async message => {
 	
 }}}});
 
-client.login('NjQyMTE2OTk2NDk4MTk0NDMz.XcSQEw.wlrUKBFhREBSmdbHnv50E-RNwl8');
+client.login(process.env.BOT_TOKEN);

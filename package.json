@@ -2,9 +2,9 @@
     "name": "test",
     "description": "test",
     "version": "0.0.0",
-    "main": "bot.js",
+    "main": "index.js",
     "scripts": {
-      "start": "node emojibot.js"
+      "start": "node index.js"
     },
     "dependencies": {
       "discord.js": "11.1.0",
